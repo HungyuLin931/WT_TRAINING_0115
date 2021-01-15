@@ -10,6 +10,7 @@ echo -e "Welcome to NBA !! \a \n"
 
 echo -e "=================="
 echo -e "Bulls:"
+echo -e "Jordan"
 echo -e "=================="
 echo -e "Lakers:"
 echo -e "=================="

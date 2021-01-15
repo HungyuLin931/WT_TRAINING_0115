@@ -15,6 +15,6 @@ echo -e "Los Angeles Lakers:"
 echo -e "=================="
 echo -e "Boston Celtics:"
 echo -e "=================="
-echo -e "Rockets"
+echo -e "Huston Rockets"
 echo -e "=================="
 

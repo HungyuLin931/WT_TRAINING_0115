@@ -15,4 +15,6 @@ echo -e "Lakers:"
 echo -e "=================="
 echo -e "Boston:"
 echo -e "=================="
+echo -e "Rockets"
+echo -e "=================="
 
